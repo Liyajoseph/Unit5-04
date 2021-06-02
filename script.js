@@ -5,15 +5,15 @@ document.getElementById('show').addEventListener('click', show)
 document.getElementById('background').addEventListener('click', bg)
 
 function image () {
-  document.getElementById('picture').src = "images/sleeping.jpg"
+  document.getElementById('picture').src = 'images/sleeping.jpg'
 }
 
 function text () {
-  document.getElementById('text1').innerHTML = "Good Evening!"
+  document.getElementById('text1').innerHTML = 'Good Evening!'
 }
 
 function hide () {
-  document.getElementById('text1').style.display = "none"
+  document.getElementById('text1').style.display = 'none'
 }
 
 function show () {
