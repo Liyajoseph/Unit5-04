@@ -21,5 +21,5 @@ function show () {
 }
 
 function bg () {
-  document.body.style.backgroundColor = "violet"
+  document.body.style.backgroundColor = 'violet'
 }
